@@ -122,3 +122,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+01. Market regimes/Data/
+02. Toxicity order flow/Data/
+03. Structural Breaks/
+04. Forecast Volatility/Data/
+05. Imbalanced/Data/
+06. Price balance/Data/
+07. Optimal sites/Data/
